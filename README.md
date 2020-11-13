@@ -2,7 +2,7 @@
 
 My name is Raiane Christine and I'm Front-End Developer.
 
-I’m a developer since 2016 and I’m currently a React Developer at [ioasys](https://ioasys.com.br/). \
+I’m a developer since 2016 and I’m currently a React Developer at [ifood](https://ifood.com.br/). \
 I have a passion for mobile development and sometimes I develop applications in React Native for study.
 
 🌱 I’m currently learning: English, NodeJs and React Native \
