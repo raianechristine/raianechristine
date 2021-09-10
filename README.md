@@ -1,6 +1,6 @@
 ### Hey you 🤘
 
-My name is Raiane Christine and I'm Front-End Developer.
+I'm Front-End Developer.
 
 I’m a developer since 2016 and I’m currently a Software Engineer at [ifood](https://ifood.com.br/). 
 
